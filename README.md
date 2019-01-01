@@ -9,7 +9,7 @@ Instalación:
 - Crear el directorio o carpeta "EasyUO"
 - Copiar los dos ficheros en el nuevo directorio EasyUO, de tal forma que quede \Sublime Text 3\Packages\EasyUO\
 
-EasyUO.tmLanguage
+EasyUO.tmLanguage  
 EasyUO.YAML-tmLanguage
 
 Por alguna razón, el reconocimiento no es ignorecase, de modo que he cambiado la expresión regular para que también resalte

@@ -13,7 +13,7 @@ EasyUO.tmLanguage
 EasyUO.YAML-tmLanguage
 
 Por alguna razón, el reconocimiento no es ignorecase, de modo que he cambiado la expresión regular para que también resalte
-en caso de estar en mayúsculas, por ejemplo al escribir #FINDITEM, etc.
+en caso de estar en mayúsculas, por ejemplo al escribir #FINDID, etc.
 
 Para ello puedes copiar este tercer fichero junto a los otros dos:
 
